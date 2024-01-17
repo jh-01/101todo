@@ -25,8 +25,7 @@
       "module": "commonjs",
       "moduleResolution": "node",
       "noEmit": true,
-      "allowSyntheticDefaultImports": true,
-      "jsx": "react-jsx"
+      "allowSyntheticDefaultImports": true
     }
   }
 }
