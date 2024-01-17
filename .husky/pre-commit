@@ -1,0 +1,7 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+yarn checkTs
+yarn lint-staged
+
+# 커밋 전에 확인하는 파일
